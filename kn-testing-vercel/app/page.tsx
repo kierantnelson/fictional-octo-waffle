@@ -34,7 +34,7 @@ export default function Home() {
           src="/raam-logo.png"
           alt="Raam Logo"
           width={180}
-          height={37}
+          height={180}
           priority
         />
       </div>
